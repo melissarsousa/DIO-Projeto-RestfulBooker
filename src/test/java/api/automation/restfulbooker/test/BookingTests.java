@@ -84,7 +84,6 @@ public class BookingTests {
 
     @Test
     public void  CreateBooking_WithValidData_returnOk(){
-        Booking test = booking;
         request.when()
                 .body(booking)
                 .post("/booking")
