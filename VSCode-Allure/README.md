@@ -1,1 +1,1 @@
-Repositório contendo os entregáveis do projeto "Explorando o Rest Assured Para a Automação de Testes de API", do Bootcamp "GFT Quality Assurance Para Mulheres" da DIO.
+Diretório contendo os códigos e testes para o projeto, criados no VS Code.
